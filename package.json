@@ -1,0 +1,19 @@
+{
+    "name": "lab-assignment-3f",
+    "version": "1.0.0",
+    "description": "A simple Express application",
+    "main": "file1.js",
+    "scripts": {
+        "start": "nodemon file2.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "author": "Jaideep",
+    "license": "ISC",
+    "keywords": []
+    
+}
